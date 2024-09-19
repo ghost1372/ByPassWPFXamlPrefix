@@ -13,3 +13,4 @@ using System.Windows.Markup;
 
 This configuration registers the namespaces `TestLibrary` and `TestLibrary.Controls` under the default WPF XML namespace `(http://schemas.microsoft.com/winfx/2006/xaml/presentation)`. As a result, you can reference custom controls directly in your XAML without the need to add a specific prefix.
 
+![Screenshot 2024-09-20 004613](https://github.com/user-attachments/assets/f61c7c12-5cfe-4896-a6d7-1f49ed51167c)
